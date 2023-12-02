@@ -15,3 +15,7 @@ Every developer needs a business card for their professional endeavors, but why 
 👨‍💻 **Developer Friendly**: Built by developers, for developers. The project is designed to be easy to use and customizable with coding in mind.
 
 🔧 **Flexibility**: Adapt the business card to your needs. Showcase your skills, link to your projects, and provide multiple contact options.
+
+## Demo
+
+![Business Card - Google Chrome 2023-12-02 22-56-48](https://github.com/kanugurajesh/Business-Card/assets/120458029/e3b95d53-fffa-4d03-a135-b662a7ef2f43)
